@@ -1,5 +1,5 @@
 
-<h1 align="center"><i>Hey Folks, I'm Sehaj!! </i> 😏</h1>
+<h1 align="center"><i>Hey Folks, Sehaj Here!! </i> 😏</h1>
 
 <p align="center"> 
 <img src="https://media.giphy.com/media/HS57g0BfC2syMzQz13/giphy.gif?cid=ecf05e47s79ge8egyw2j3dxa0nco8udp6ev3vwybw3c9xzrq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="370">

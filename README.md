@@ -101,7 +101,7 @@
 
 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roguesehaj&layout=compact&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roguesehaj&layout=compact&theme=dark" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roguesehaj&show_icons=true&locale=en&theme=dark" />
 

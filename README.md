@@ -1,4 +1,4 @@
-# <i>Hey Folks, Sehaj Here!!</i> 😏  
+# <i>Hey Folks, Sehaj Here!!</i> 📈
   
 
 <a href="https://github.com/roguesehaj" target="_blank">

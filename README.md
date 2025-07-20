@@ -7,7 +7,7 @@
 
 I’m [**Sehaj**](https://www.linkedin.com/in/arorasehajbir/), a frontend developer and computer science student based in India.
 
-I love building interfaces that are fast, intuitive, and actually enjoyable to use. I care about good design, clean code, and tools that make life simpler.
+I love building interfaces that are fast, intuitive, and enjoyable to use. I care about good design, clean code, and tools that make life simpler.
 
 Outside of tech, I spend a lot of time making music; producing, writing, or just messing around with sounds that make me feel something. I also lead a content team and enjoy sharing thoughts on tech, learning, and life online.
 

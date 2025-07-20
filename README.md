@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-I’m [**Sehaj**](https://www.linkedin.com/in/arorasehajbir/), a frontend developer and computer science student based in India.
+I’m [**Sehaj**](https://www.linkedin.com/in/arorasehajbir/), a developer and computer science student based in India.
 
 I love building interfaces that are fast, intuitive, and enjoyable to use. I care about good design, clean code, and tools that make life simpler.
 
